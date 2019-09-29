@@ -1,0 +1,15 @@
+
+There are two human study experiments, namely, experiment1-clean-noisy and experiment3-identify-speaker.
+
+In folder {experiment1-clean-noisy}, there are 36 audios. 
+Please listen to these audios carefully and make decision for each audio in the form https://jinshuju.net/f/gOsm2X.
+There are three options for each audio in the form, i.e., {Yes. Yes. I heard some noise}, {No. The audio is clean} and {I am not sure}.
+
+In the folder {experiment3-identify-speaker}, there are speakers (i.e., spk1, spk2 and spk3).
+Under each folder of speaker {spk1}, {spk2}, {spk3}, there are 12 pairs of audios, totally 36 pairs.
+Please listen to each pair carefully and decide whether the two audio in the pair beling to the same speaker.
+Make decision in the form https://jinshuju.net/f/TodsxN.
+There are three options for each pair in the form, i.e., {Yes. The two audios are uttered by the same speaker}, 
+{No. The two audios are uttered by different speakers} and {I am not sure}.
+
+Thank you very much for your participation.
