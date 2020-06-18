@@ -1,2 +1,1 @@
-# GolferChen.github.io
-My Personal Website
+This repository is only to provide public access url for [fakebob google site](https://sites.google.com/view/fakebob/) of [FAKEBOB](https://github.com/FAKEBOB-adversarial-attack/FAKEBOB) (our proposed adversarial attack against speaker recognition systems). It is meaningless for you.
